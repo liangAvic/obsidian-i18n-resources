@@ -8,9 +8,9 @@
         "supported_versions": "2.0.4",
         "title": "BRAT",
         "description": "BRAT Localization & Tweaks",
-        "hash": "743a98c7743a98c7743a98c7743a98c7",
+        "hash": "1804e31b1804e31b1804e31b1804e31b",
         "created_at": "2026-04-25T02:50:39.759Z",
-        "updated_at": "2026-04-25T02:50:39.759Z"
+        "updated_at": "2026-04-25T03:01:40.129Z"
     },
     {
         "id": "HsQbEi1JGQ9A96KcX5-M9fNWmH1MP3WP",
@@ -47,9 +47,9 @@
         "supported_versions": "10.3.4",
         "title": "Custom Attachment Location",
         "description": "Custom Attachment Location Localization & Tweaks",
-        "hash": "338ecb2e338ecb2e338ecb2e338ecb2e",
+        "hash": "3970988d3970988d3970988d3970988d",
         "created_at": "2026-04-25T02:50:39.770Z",
-        "updated_at": "2026-04-25T02:50:39.770Z"
+        "updated_at": "2026-04-25T03:01:40.139Z"
     },
     {
         "id": "5flI5YjPTrsVEfvebcKl9WqAstUAVdkB",
@@ -63,5 +63,31 @@
         "hash": "3b6148be3b6148be3b6148be3b6148be",
         "created_at": "2026-04-25T02:50:39.759Z",
         "updated_at": "2026-04-25T02:50:39.759Z"
+    },
+    {
+        "id": "dAPv8-10NnXMRsiauHZuR63N0Q3WNRs4",
+        "plugin": "Things",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "hash": "3b6148be3b6148be3b6148be3b6148be",
+        "created_at": "2026-04-25T03:01:40.128Z",
+        "updated_at": "2026-04-25T03:01:40.128Z"
+    },
+    {
+        "id": "S8s3InJGpO3q8Tz9L_QqNzyuagDEfisN",
+        "plugin": "Things",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "hash": "4c24ea404c24ea404c24ea404c24ea40",
+        "created_at": "2026-04-25T03:01:40.130Z",
+        "updated_at": "2026-04-25T03:01:40.130Z"
     }
 ]
