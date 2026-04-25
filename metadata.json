@@ -50,5 +50,18 @@
         "hash": "6acccc246acccc246acccc246acccc24",
         "created_at": "2026-04-25T03:29:06.823Z",
         "updated_at": "2026-04-25T03:29:06.823Z"
+    },
+    {
+        "id": "iw0-IGJQWWnw8GjzmF1mUR1RtPzZEasp",
+        "plugin": "metadata-menu",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "0.8.12",
+        "supported_versions": "0.8.12",
+        "title": "Metadata Menu",
+        "description": "全局管理元数据。可以设置不同文件夹中的笔记使用特定的数据。",
+        "hash": "681e1c55681e1c55681e1c55681e1c55",
+        "created_at": "2026-04-25T06:45:38.661Z",
+        "updated_at": "2026-04-25T06:45:38.661Z"
     }
 ]
