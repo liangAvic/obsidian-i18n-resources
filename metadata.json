@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "id": "22drQP5tmuIKBMuKXqrN_un3Bh7xRBos",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.0.4",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "743a98c7743a98c7743a98c7743a98c7",
+        "created_at": "2026-04-25T02:50:39.759Z",
+        "updated_at": "2026-04-25T02:50:39.759Z"
+    },
+    {
+        "id": "HsQbEi1JGQ9A96KcX5-M9fNWmH1MP3WP",
+        "plugin": "consistent-attachments-and-links",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.33.4",
+        "title": "Consistent Attachments and Links",
+        "description": "Consistent Attachments and Links Localization & Tweaks",
+        "hash": "72104f2772104f2772104f2772104f27",
+        "created_at": "2026-04-25T02:50:39.758Z",
+        "updated_at": "2026-04-25T02:50:39.758Z"
+    },
+    {
+        "id": "s_s6KOJCjxZamGMRRhhNVOYWXRFXys2v",
+        "plugin": "copilot",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.2.7",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "2a4c4ea72a4c4ea72a4c4ea72a4c4ea7",
+        "created_at": "2026-04-25T02:50:39.763Z",
+        "updated_at": "2026-04-25T02:50:39.763Z"
+    },
+    {
+        "id": "62a46rYVsbhoX-RbqwkMU5HijRLuFV_w",
+        "plugin": "obsidian-custom-attachment-location",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "10.3.4",
+        "title": "Custom Attachment Location",
+        "description": "Custom Attachment Location Localization & Tweaks",
+        "hash": "338ecb2e338ecb2e338ecb2e338ecb2e",
+        "created_at": "2026-04-25T02:50:39.770Z",
+        "updated_at": "2026-04-25T02:50:39.770Z"
+    },
+    {
+        "id": "5flI5YjPTrsVEfvebcKl9WqAstUAVdkB",
+        "plugin": "Things",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "hash": "3b6148be3b6148be3b6148be3b6148be",
+        "created_at": "2026-04-25T02:50:39.759Z",
+        "updated_at": "2026-04-25T02:50:39.759Z"
+    }
+]
