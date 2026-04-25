@@ -13,19 +13,6 @@
     "updated_at": "2026-04-25T03:01:40.129Z"
   },
   {
-    "id": "HsQbEi1JGQ9A96KcX5-M9fNWmH1MP3WP",
-    "plugin": "consistent-attachments-and-links",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "3.33.4",
-    "title": "Consistent Attachments and Links",
-    "description": "Consistent Attachments and Links Localization & Tweaks",
-    "hash": "72104f2772104f2772104f2772104f27",
-    "created_at": "2026-04-25T02:50:39.758Z",
-    "updated_at": "2026-04-25T02:50:39.758Z"
-  },
-  {
     "id": "62a46rYVsbhoX-RbqwkMU5HijRLuFV_w",
     "plugin": "obsidian-custom-attachment-location",
     "type": "plugin",
