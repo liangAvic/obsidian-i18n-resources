@@ -37,5 +37,18 @@
         "hash": "280e2b89280e2b89280e2b89280e2b89",
         "created_at": "2026-04-25T03:26:32.182Z",
         "updated_at": "2026-04-25T03:26:32.182Z"
+    },
+    {
+        "id": "oo8NcW_u-WF-JCsj_LgzKy5Mo0Z43cH2",
+        "plugin": "Things",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "hash": "6acccc246acccc246acccc246acccc24",
+        "created_at": "2026-04-25T03:29:06.823Z",
+        "updated_at": "2026-04-25T03:29:06.823Z"
     }
 ]
