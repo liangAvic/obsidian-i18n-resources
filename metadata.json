@@ -1,15 +1,41 @@
 [
-  {
-    "id": "22drQP5tmuIKBMuKXqrN_un3Bh7xRBos",
-    "plugin": "obsidian42-brat",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "2.0.4",
-    "title": "BRAT",
-    "description": "BRAT Localization & Tweaks",
-    "hash": "1804e31b1804e31b1804e31b1804e31b",
-    "created_at": "2026-04-25T02:50:39.759Z",
-    "updated_at": "2026-04-25T03:01:40.129Z"
-  }
+    {
+        "id": "22drQP5tmuIKBMuKXqrN_un3Bh7xRBos",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.0.4",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "1804e31b1804e31b1804e31b1804e31b",
+        "created_at": "2026-04-25T02:50:39.759Z",
+        "updated_at": "2026-04-25T03:01:40.129Z"
+    },
+    {
+        "id": "YpMdsKhm-kaC5LCYR8XmBbUftedYYc3d",
+        "plugin": "copilot",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.2.4",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "185225ef185225ef185225ef185225ef",
+        "created_at": "2026-04-25T03:26:32.182Z",
+        "updated_at": "2026-04-25T03:26:32.182Z"
+    },
+    {
+        "id": "xnjKpH24mW2ZueQMisFwEI-0YbIByM5w",
+        "plugin": "consistent-attachments-and-links",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.33.4",
+        "title": "Consistent Attachments and Links",
+        "description": "Consistent Attachments and Links Localization & Tweaks",
+        "hash": "280e2b89280e2b89280e2b89280e2b89",
+        "created_at": "2026-04-25T03:26:32.182Z",
+        "updated_at": "2026-04-25T03:26:32.182Z"
+    }
 ]
