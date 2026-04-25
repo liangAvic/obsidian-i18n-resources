@@ -11,18 +11,5 @@
     "hash": "1804e31b1804e31b1804e31b1804e31b",
     "created_at": "2026-04-25T02:50:39.759Z",
     "updated_at": "2026-04-25T03:01:40.129Z"
-  },
-  {
-    "id": "62a46rYVsbhoX-RbqwkMU5HijRLuFV_w",
-    "plugin": "obsidian-custom-attachment-location",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "10.3.4",
-    "title": "Custom Attachment Location",
-    "description": "Custom Attachment Location Localization & Tweaks",
-    "hash": "3970988d3970988d3970988d3970988d",
-    "created_at": "2026-04-25T02:50:39.770Z",
-    "updated_at": "2026-04-25T03:01:40.139Z"
   }
 ]
