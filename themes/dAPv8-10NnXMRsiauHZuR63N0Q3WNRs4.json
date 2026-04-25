@@ -1,0 +1,384 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Things",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supportedVersions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "author": ""
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "Things Theme",
+            "target": "Things Theme"
+        },
+        {
+            "type": "title",
+            "source": "Features",
+            "target": "Features"
+        },
+        {
+            "type": "title",
+            "source": "Black mobile background",
+            "target": "Black mobile background"
+        },
+        {
+            "type": "description",
+            "source": "Change mobile editor background to default theme black",
+            "target": "Change mobile editor background to default theme black"
+        },
+        {
+            "type": "title",
+            "source": "Disable mobile floating-action button",
+            "target": "Disable mobile floating-action button"
+        },
+        {
+            "type": "description",
+            "source": "Revert placement of edit/preview button to default in header (mobile)",
+            "target": "Revert placement of edit/preview button to default in header (mobile)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight active line",
+            "target": "Highlight active line"
+        },
+        {
+            "type": "description",
+            "source": "Change background color of current working line",
+            "target": "Change background color of current working line"
+        },
+        {
+            "type": "title",
+            "source": "Fancy code blocks",
+            "target": "Fancy code blocks"
+        },
+        {
+            "type": "description",
+            "source": "Enable fancy numbered code blocks",
+            "target": "Enable fancy numbered code blocks"
+        },
+        {
+            "type": "title",
+            "source": "Fancy highlighting",
+            "target": "Fancy highlighting"
+        },
+        {
+            "type": "description",
+            "source": "Enable fancy highlight styles with highlight underlines",
+            "target": "Enable fancy highlight styles with highlight underlines"
+        },
+        {
+            "type": "title",
+            "source": "Disable Kanban board styles",
+            "target": "Disable Kanban board styles"
+        },
+        {
+            "type": "description",
+            "source": "Remove minimalist styling to the Kanban plugin",
+            "target": "Remove minimalist styling to the Kanban plugin"
+        },
+        {
+            "type": "title",
+            "source": "Underline internal links",
+            "target": "Underline internal links"
+        },
+        {
+            "type": "description",
+            "source": "Show underlines on internal links",
+            "target": "Show underlines on internal links"
+        },
+        {
+            "type": "title",
+            "source": "Underline external links",
+            "target": "Underline external links"
+        },
+        {
+            "type": "description",
+            "source": "Show underlines on external links",
+            "target": "Show underlines on external links"
+        },
+        {
+            "type": "title",
+            "source": "Typography",
+            "target": "Typography"
+        },
+        {
+            "type": "title",
+            "source": "Default font colors",
+            "target": "Default font colors"
+        },
+        {
+            "type": "description",
+            "source": "Use the default font color styling for bold, italics, and quotes",
+            "target": "Use the default font color styling for bold, italics, and quotes"
+        },
+        {
+            "type": "title",
+            "source": "Highlight color (light)",
+            "target": "Highlight color (light)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight color (dark)",
+            "target": "Highlight color (dark)"
+        },
+        {
+            "type": "title",
+            "source": "Bold font color",
+            "target": "Bold font color"
+        },
+        {
+            "type": "title",
+            "source": "Italics font color",
+            "target": "Italics font color"
+        },
+        {
+            "type": "title",
+            "source": "Blockquotes font color",
+            "target": "Blockquotes font color"
+        },
+        {
+            "type": "title",
+            "source": "Inline code blocks font color (Light mode)",
+            "target": "Inline code blocks font color (Light mode)"
+        },
+        {
+            "type": "title",
+            "source": "Inline code blocks font color (Dark mode)",
+            "target": "Inline code blocks font color (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Tag background color (Light mode)",
+            "target": "Tag background color (Light mode)"
+        },
+        {
+            "type": "title",
+            "source": "Tag font color (Light mode)",
+            "target": "Tag font color (Light mode)"
+        },
+        {
+            "type": "title",
+            "source": "Tag background color (Dark mode)",
+            "target": "Tag background color (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Tag font color (Dark mode)",
+            "target": "Tag font color (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Progress colorful mode switcher",
+            "target": "Progress colorful mode switcher"
+        },
+        {
+            "type": "description",
+            "source": "Toggle progress color scheme",
+            "target": "Toggle progress color scheme"
+        },
+        {
+            "type": "title",
+            "source": "progress 2-39% color",
+            "target": "progress 2-39% color"
+        },
+        {
+            "type": "title",
+            "source": "progress 40-59% color",
+            "target": "progress 40-59% color"
+        },
+        {
+            "type": "title",
+            "source": "progress 60-79% color",
+            "target": "progress 60-79% color"
+        },
+        {
+            "type": "title",
+            "source": "progress 80-99% color",
+            "target": "progress 80-99% color"
+        },
+        {
+            "type": "title",
+            "source": "progress 1,100% color",
+            "target": "progress 1,100% color"
+        },
+        {
+            "type": "title",
+            "source": "Headings",
+            "target": "Headings"
+        },
+        {
+            "type": "title",
+            "source": "Level 1 Headings",
+            "target": "Level 1 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H1 font size",
+            "target": "H1 font size"
+        },
+        {
+            "type": "description",
+            "source": "Accepts any CSS font-size value",
+            "target": "Accepts any CSS font-size value"
+        },
+        {
+            "type": "title",
+            "source": "H1 font weight",
+            "target": "H1 font weight"
+        },
+        {
+            "type": "description",
+            "source": "Accepts numbers representing the CSS font-weight",
+            "target": "Accepts numbers representing the CSS font-weight"
+        },
+        {
+            "type": "title",
+            "source": "H1 color",
+            "target": "H1 color"
+        },
+        {
+            "type": "title",
+            "source": "Level 2 Headings",
+            "target": "Level 2 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H2 font size",
+            "target": "H2 font size"
+        },
+        {
+            "type": "title",
+            "source": "H2 font weight",
+            "target": "H2 font weight"
+        },
+        {
+            "type": "title",
+            "source": "H2 color",
+            "target": "H2 color"
+        },
+        {
+            "type": "title",
+            "source": "H2 underline",
+            "target": "H2 underline"
+        },
+        {
+            "type": "description",
+            "source": "Toggle H2 underline (border-bottom)",
+            "target": "Toggle H2 underline (border-bottom)"
+        },
+        {
+            "type": "title",
+            "source": "Level 3 Headings",
+            "target": "Level 3 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H3 font size",
+            "target": "H3 font size"
+        },
+        {
+            "type": "title",
+            "source": "H3 font weight",
+            "target": "H3 font weight"
+        },
+        {
+            "type": "title",
+            "source": "H3 color",
+            "target": "H3 color"
+        },
+        {
+            "type": "title",
+            "source": "Level 4 Headings",
+            "target": "Level 4 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H4 font size",
+            "target": "H4 font size"
+        },
+        {
+            "type": "title",
+            "source": "H4 font weight",
+            "target": "H4 font weight"
+        },
+        {
+            "type": "title",
+            "source": "H4 color",
+            "target": "H4 color"
+        },
+        {
+            "type": "title",
+            "source": "H4 transform",
+            "target": "H4 transform"
+        },
+        {
+            "type": "description",
+            "source": "Transform the H4 heading text",
+            "target": "Transform the H4 heading text"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase",
+            "target": "Uppercase"
+        },
+        {
+            "type": "label",
+            "source": "None",
+            "target": "None"
+        },
+        {
+            "type": "title",
+            "source": "Level 5 Headings",
+            "target": "Level 5 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H5 font size",
+            "target": "H5 font size"
+        },
+        {
+            "type": "title",
+            "source": "H5 font weight",
+            "target": "H5 font weight"
+        },
+        {
+            "type": "title",
+            "source": "H5 color",
+            "target": "H5 color"
+        },
+        {
+            "type": "title",
+            "source": "Level 6 Headings",
+            "target": "Level 6 Headings"
+        },
+        {
+            "type": "title",
+            "source": "H6 font size",
+            "target": "H6 font size"
+        },
+        {
+            "type": "title",
+            "source": "H6 font weight",
+            "target": "H6 font weight"
+        },
+        {
+            "type": "title",
+            "source": "H6 color",
+            "target": "H6 color"
+        },
+        {
+            "type": "title",
+            "source": "Credits",
+            "target": "Credits"
+        },
+        {
+            "type": "description",
+            "source": "Created with ❤︎ by @colineckert. Support @colineckert at buymeacoffee.com/colineckert",
+            "target": "Created with ❤︎ by @colineckert. Support @colineckert at buymeacoffee.com/colineckert"
+        }
+    ]
+}
